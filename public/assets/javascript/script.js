@@ -37,4 +37,4 @@ document.querySelectorAll('a[href="#inscricao"]').forEach((link) => {
   });
 });
 
-updateRegistration('14/10/2026');
+updateRegistration('09/11/2026');
